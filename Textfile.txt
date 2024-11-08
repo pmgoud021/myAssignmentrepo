@@ -1,1 +1,4 @@
-This is Mallik. My file in GITHub.This comment is from local repo. This comment for github
+This is Mallik. 
+My file in GITHub.
+This comment is from local repo. 
+This comment for github
