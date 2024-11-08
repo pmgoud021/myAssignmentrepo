@@ -1,4 +1,4 @@
 This is Mallik. 
-My file in GITHub.
-This comment is from local repo. 
+My file in GITHub2.
+This comment is from local repo2. 
 This comment for github
